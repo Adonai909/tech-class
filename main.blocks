@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="I=2jzw.$;arB=f492ts7" x="0" y="0"></block><block type="device_forever" id="zZ%P;8P5qnTqLZ-5lBZS" x="199" y="417"><statement name="HANDLER"><block type="basic_show_icon" id="xIC*L,WbO3q/H2SaQ3fX"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="Ly$n3.LYQFsIRwovy^6~"><value name="pause"><shadow type="timePicker" id="UP96Gu#]46PpwgXG[`%{"><field name="ms">100</field></shadow></value><next><block type="basic_show_icon" id="]y4;$BVUDCN@g-S%1|V,"><field name="i">IconNames.SmallHeart</field><next><block type="device_pause" id="Tf)sDw@g-tyM5j##!jwZ"><value name="pause"><shadow type="timePicker" id="!*|M-,8U3U0}TgD50YeS"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="device_show_leds" id="Rfo)*VVKwqxQhWsb42|R" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="488" y="420"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></xml>
